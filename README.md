@@ -5,11 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 #Run with docker
-docker-compose build
-docker-compose up
+### docker-compose build
+### docker-compose up
 
 # NOTE: you can combine build and up via:
-# docker-compose up --build
+### docker-compose up --build
 
 
 In the project directory, you can run:
